@@ -1,0 +1,25 @@
+{
+  "name": "tributepage-fcc",
+  "version": "1.0.0",
+  "description": "Practica pagina tributo FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeesco/TributePage-FCC.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "responsive",
+    "webdeveloper"
+  ],
+  "author": "Juan E Escobar <jescobar15@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeesco/TributePage-FCC/issues"
+  },
+  "homepage": "https://github.com/jeesco/TributePage-FCC#readme"
+}
